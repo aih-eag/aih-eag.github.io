@@ -1,2 +1,4 @@
+[![aih.png](https://i.postimg.cc/wBJK5bz6/aih.png)](https://postimg.cc/R3Mb4dq8)
 # AIH Eag (Eaglercraft)
-hosted aih-eag.github.io
+Mini Eaglercraft server of friends
+by **Abeel**
