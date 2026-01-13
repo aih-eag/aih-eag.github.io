@@ -56,11 +56,6 @@ a:hover{
 	color: blueviolet;
 	text-decoration: underline;
 }
-
-a:visited{
-	color: lime;
-}
-
 code{
 	font-family: "JetBrains Mono";
 	background: rgb(33,33,33);
