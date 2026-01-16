@@ -2,3 +2,5 @@
 # AIH Eag (Eaglercraft)
 Mini Eaglercraft server of friends
 by **Abeel**
+# Website
+website [is here](https://aih-eag.github.io)
